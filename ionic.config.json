@@ -1,0 +1,7 @@
+{
+  "name": "kavapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
